@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4023825c.css",
+    "main.js": "/static/js/main.20fff5de.js",
+    "static/media/purr-7.png": "/static/media/purr-7.6c5104308ae71f565027.png",
+    "static/media/default-avatar.jpeg": "/static/media/default-avatar.bf9dfd6eb130a2eb5272.jpeg",
+    "index.html": "/index.html",
+    "main.4023825c.css.map": "/static/css/main.4023825c.css.map",
+    "main.20fff5de.js.map": "/static/js/main.20fff5de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4023825c.css",
+    "static/js/main.20fff5de.js"
+  ]
+}
